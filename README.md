@@ -2,6 +2,14 @@
 
 A modern React development boilerplate featuring Vite, Tailwind CSS v4, shadcn/ui components, and TypeScript.
 
+## Preview
+
+### Light Mode
+![Light Mode](src/assets/example_light.png)
+
+### Dark Mode
+![Dark Mode](src/assets/example_dark.png)
+
 ## Features
 
 - ⚡ **Vite** - Lightning fast build tool with HMR
